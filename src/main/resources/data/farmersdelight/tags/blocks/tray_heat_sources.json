@@ -1,0 +1,21 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "decorative_blocks:brazier",
+			"required": false
+		},
+		{
+			"id": "decorative_blocks:soul_brazier",
+			"required": false
+		},
+		{
+			"id": "decorative_blocks_abnormals:ender_brazier",
+			"required": false
+		},
+		{
+			"id": "infernalexp:campfire_glow",
+			"required": false
+		}
+	]
+}
